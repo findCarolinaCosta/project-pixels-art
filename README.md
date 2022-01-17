@@ -1,7 +1,7 @@
 # Project Pixels art
 ## _Pixels art_
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://findcarolinacosta.github.io/project-todo-list/)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/findCarolinaCosta/project-pixels-art)
 
 Implementation of a color palette using javascript, css and html.
 
